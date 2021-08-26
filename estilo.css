@@ -1,0 +1,105 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.cabecalho{
+    display: flex;
+    
+}
+
+.opcoes{
+    display: flex;
+    margin-left: 85%;
+}
+
+ul{
+    display: flex;
+    margin-right: 10px;
+    text-decoration: none;
+    
+    
+}
+
+li{
+   padding: 5px;
+   list-style: none;
+   
+   
+}
+
+a{
+    text-decoration: none;
+    color: rgb(8, 8, 8);
+}
+
+.imagem{
+    width: 25px;
+    height: 30px;
+    margin-top: 18px;
+    border-radius: 50%;
+}
+
+.logo{
+    height: 400px;
+    width: 100px;
+
+
+}
+
+
+.logo img{
+    display: block;
+    margin-top: 30%;
+    margin-left: 410%;
+    margin-right: 400%;
+    margin-bottom: 20px;
+}
+
+input{
+    width: 500px;
+    margin-left: 400%;
+    margin-right: 400%;
+    padding: 20px;
+    border: 1px solid ;
+    border-radius: 30px ;
+    outline: 0;
+    font-size: 18px;
+}
+
+.redes{
+    
+    display: flex;
+    margin-left: 240px;
+    padding: 25px;
+}
+
+.icone{
+    width: 50px;
+    padding: 15px;
+}
+
+
+
+.rodape {
+    height: 85px;
+    margin-top: 90px;
+    background-color: rgb(240, 232, 232);
+
+}
+
+.P{
+    margin-left: 660px;
+}
+
+
+ 
+    
+
+    
+
+    
+
+
+
+
